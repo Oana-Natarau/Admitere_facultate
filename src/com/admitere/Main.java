@@ -143,7 +143,7 @@ public class Main {
         }
     }
 
-    public static void afiseazaAdmisiRespinsi(List<Concurent> concurenti) {
+g    public static void afiseazaAdmisiRespinsi(List<Concurent> concurenti) {
         List<Concurent> admisi = new ArrayList<>();
         List<Concurent> respinsi = new ArrayList<>();
 
