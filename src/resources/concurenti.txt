@@ -1,0 +1,5 @@
+Ionescu Maria;9.0,9.5,8.5;8.0,8.5,9.0
+Popescu Ion;8.0,7.5,9.0;7.0,6.5,8.5
+Marinescu Mihai;5.3,4.7,5.8;5.6,6.2,7.0
+Enache Dorian;3.0,3.0,4.0;4.0,4.0,4.0
+Bravu Daniela;5.0,4.7,4.4;2.5,4.0,3.5
